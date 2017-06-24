@@ -34,10 +34,10 @@
   height: 100%;
 }
 
-    
+
 </style>
 
-
+<body>
 
 <div class="intrinsic-container">
  <iframe src="http://192.168.1.189:8081/player.html" name="restreamer-player" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true">unwantedtext</iframe>
@@ -46,3 +46,5 @@
 <div class="intrinsic-container">
 <iframe src="http://192.168.1.189:8082/player.html" name="restreamer-player" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true">unwantedtext</iframe>
 </div>
+
+</body>
