@@ -1,3 +1,5 @@
+## Welcome to Bridgeport
+
 <style type="text/css">
     
 .intrinsic-container {
@@ -26,14 +28,7 @@
 
 
 </style>
-
-
-<head>
     
-## Welcome to HomeWatch 4
-
-</head>
-
 <!--
 
 <img src="http://192.168.1.189:8081/images/live.jpg" width="800" height="450">
