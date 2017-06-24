@@ -30,7 +30,7 @@
 
 <head>
     
-## Welcome to HomeWatch 2
+## Welcome to HomeWatch 3
 
 </head>
 
