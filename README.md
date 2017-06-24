@@ -1,4 +1,5 @@
 ## Welcome to HomeWatch
 
-THis is an attempt to serve a simple HTML page with embedded Restreamer iframes to be able to stream IP cameras at home.
+ <iframe src="http://192.168.1.189:8081/player.html" name="restreamer-player" width="800" height="450" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
 
+<iframe src="http://192.168.1.189:8082/player.html" name="restreamer-player" width="800" height="450" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>
