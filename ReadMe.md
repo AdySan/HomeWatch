@@ -41,4 +41,10 @@
 <iframe src="http://192.168.1.189:8083/player.html" name="restreamer-player" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true">unwantedtext</iframe>
 </div>
 
+<p> --- </p>
+<div class="intrinsic-container intrinsic-container-16x9">
+<iframe src="http://192.168.1.189:8082/player.html" name="restreamer-player" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true">unwantedtext</iframe>
+</div>
+
+
 </body>
