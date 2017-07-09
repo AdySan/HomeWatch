@@ -11,6 +11,7 @@
 /* 16x9 Aspect Ratio */
 .intrinsic-container-16x9 {
   padding-bottom: 56.25%;
+  overflow: hidden;
 }
  
 /* 4x3 Aspect Ratio */
@@ -25,7 +26,6 @@
   width: 100%;
   height: 100%;
 }
-
 
 </style>
     
